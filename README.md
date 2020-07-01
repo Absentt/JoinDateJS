@@ -6,9 +6,9 @@ PAPI join date script converting from epoch to long date format
 `
 
 Change:
-``js
+`js
 toDateString()
-``
+`
 to
 ```js
 toUTCstring
